@@ -1,6 +1,6 @@
 # HybridNet
 
-Human Robot Team Scheduling Pipeline using Graph Attention Networks for embedding generation and RNN for sequential action schedule generation for Multi-Round Scheduling
+Please see our [IROS 2022 Conference Paper](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/d/958/files/2022/08/IROS2022_HybridNET.pdf) on Human Robot Team Scheduling Pipeline using Graph Attention Networks for embedding generation and RNN for sequential action schedule generation for Multi-Round Scheduling
 
 ## File Structure
 - ./requirements.yaml -- conda environment requirements
